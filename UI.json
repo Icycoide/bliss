@@ -1,3 +1,6 @@
 {
-    "interface_font": ["Consolas", 20]
+    "application_background": [17, 6, 34],
+    "interface_font": ["consolas", 14],
+    "status_bar_background": [180, 134, 255],
+    "status_bar_foreground": [64, 0, 168]
 }

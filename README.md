@@ -1,4 +1,4 @@
-# bliss
+# Bliss
 edit code and text - blissfully
 
 ## development setup instructions
